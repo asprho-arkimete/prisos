@@ -1,13 +1,13 @@
 # Prisons
 
-Gioco di editing di immagini: simulazione di personaggi in prigione in cui puoi creare scene animate modificando le immagini con **FLUX.2** in locale e usando **A2e** per le animazioni video.
+Gioco di editing di immagini: simulazione di personaggi in prigione in cui puoi creare scene animate modificando le immagini con **FLUX.2** in locale e usando [A2E Free, Personal AI Videos](https://a2e.ai/) per le animazioni video.
 
 ## Installazione
 
 ### Prerequisiti
-1. Installa **Python 3.10**
-2. Installa **Cursor** (editor, opzionale)
-3. Installa **Anaconda**
+1. Installa [Python 3.10](https://www.python.org/downloads/release/python-31011/) (versione 3.10.11, l'ultima con installer per Windows)
+2. Installa [Cursor](https://cursor.com/download) (editor, opzionale)
+3. Installa [Anaconda](https://www.anaconda.com/download)
 
 ### Setup
 1. Clona il repository:
